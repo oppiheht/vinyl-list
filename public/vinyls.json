@@ -1,0 +1,83 @@
+{
+  "owned": [
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    }
+  ],
+  "ideas": [
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    }
+  ],
+  "wanted": [
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    },
+    {
+      "album": "Some abum name",
+      "year": "2015",
+      "artist": "Some artist"
+    }
+  ]
+}
