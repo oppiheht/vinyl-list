@@ -1,0 +1,8 @@
+{
+  "name": "vinyls",
+  "version": "0.0.1",
+  "description": "A list of vinyl records I own or want",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
+}
