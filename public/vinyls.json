@@ -1,83 +1,41 @@
 {
   "owned": [
-    {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
-    },
-    {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
-    },
-    {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
-    },
-    {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
-    },
-    {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
-    }
   ],
   "ideas": [
     {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
+      "album": "Pat Benatar",
+      "year": "Jess",
+      "artist": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/PAT_BENATAR_2007-09-07.jpg/330px-PAT_BENATAR_2007-09-07.jpg"
     },
     {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
+      "album": "Sum 41",
+      "year": "Brandon",
+      "artist": ""
     },
     {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
+      "album": "Styx",
+      "year": "Brandon",
+      "artist": "(blame my dad)"
     },
     {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
-    },
-    {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
+      "album": "The Fratellis",
+      "year": "Brandon",
+      "artist": ""
     }
   ],
   "wanted": [
     {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
+      "album": "Hysteria",
+      "year": "1987",
+      "artist": "Def Leppard",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/40/Def_Leppard_-_Hysteria_%28vinyl_version%29.jpg"
     },
     {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
-    },
-    {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
-    },
-    {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
-    },
-    {
-      "album": "Some abum name",
-      "year": "2015",
-      "artist": "Some artist"
+      "album": "Riot!",
+      "year": "2007",
+      "artist": "Paramore",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Paramore_-_Riot%21.png"
     }
   ]
 }

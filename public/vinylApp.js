@@ -14,9 +14,15 @@
 
     function setVinyls(result) {
       console.log(result);
-      vm.ideas = result.ideas;
-      vm.owned = result.owned;
-      vm.wanted = result.wanted;
+      if (result.ideas && result.ideas.length > 0) {
+        vm.ideas = result.ideas;
+      }
+      if (result.owned && result.owned.length > 0) {
+        vm.owned = result.owned;
+      }
+      if (result.wanted && result.wanted.length > 0) {
+        vm.wanted = result.wanted;
+      }
     }
 
     function displayError(error) {

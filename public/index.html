@@ -19,32 +19,32 @@
 				</h3>
 				<div class="row">
 					<div class="col-md-4 vinyl-list">
-						<h3 class="text-center">
+						<h2 class="text-center">
 							Owned Vinyls
-						</h3>
+						</h2>
 						<ul>
 							<li ng-repeat="vinyl in vc.owned">
-								<vinyl image="" album={{vinyl.album}} year="{{vinyl.year}}" artist="{{vinyl.artist}}"></vinyl>
+								<vinyl image="{{vinyl.image}}" album={{vinyl.album}} year="{{vinyl.year}}" artist="{{vinyl.artist}}"></vinyl>
 							</li>
 						</ul>
 					</div>
 					<div class="col-md-4 vinyl-list">
-						<h3 class="text-center">
+						<h2 class="text-center">
 							Wanted Vinyls
-						</h3>
+						</h2>
 						<ul>
 							<li ng-repeat="vinyl in vc.wanted">
-								<vinyl image="" album={{vinyl.album}} year="{{vinyl.year}}" artist="{{vinyl.artist}}"></vinyl>
+								<vinyl image="{{vinyl.image}}" album={{vinyl.album}} year="{{vinyl.year}}" artist="{{vinyl.artist}}"></vinyl>
 							</li>
 						</ul>
 					</div>
 					<div class="col-md-4 vinyl-list">
-						<h3 class="text-center">
+						<h2 class="text-center">
 							Bands and Categories
-						</h3>
+						</h2>
 						<ul>
 							<li ng-repeat="vinyl in vc.ideas">
-								<vinyl image="" album={{vinyl.album}} year="{{vinyl.year}}" artist="{{vinyl.artist}}"></vinyl>
+								<vinyl image="{{vinyl.image}}" album={{vinyl.album}} year="{{vinyl.year}}" artist="{{vinyl.artist}}"></vinyl>
 							</li>
 						</ul>
 					</div>
