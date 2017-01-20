@@ -1,5 +1,11 @@
 {
   "owned": [
+    {
+      "album": "Riot!",
+      "year": "2007",
+      "artist": "Paramore",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Paramore_-_Riot%21.png"
+    }
   ],
   "ideas": [
     {
@@ -11,6 +17,21 @@
     {
       "album": "Sum 41",
       "year": "Brandon",
+      "artist": ""
+    },
+    {
+      "album": "Disney",
+      "year": "Jess",
+      "artist": ""
+    },
+    {
+      "album": "AC/DC",
+      "year": "Jess",
+      "artist": ""
+    },
+    {
+      "album": "Journey",
+      "year": "Jess",
       "artist": ""
     },
     {
@@ -32,10 +53,20 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/4/40/Def_Leppard_-_Hysteria_%28vinyl_version%29.jpg"
     },
     {
-      "album": "Riot!",
-      "year": "2007",
-      "artist": "Paramore",
-      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Paramore_-_Riot%21.png"
+      "album": "Appetite for Destruction",
+      "artist": "Guns N' Roses"
+    },
+    {
+      "album": "Dressed to Kill",
+      "artist": "Kiss"
+    },
+    {
+      "album": "Hotter than Hell",
+      "artist": "Kiss"
+    },
+    {
+      "album": "Grace",
+      "artist": "Jeff Buckley"
     }
   ]
 }
